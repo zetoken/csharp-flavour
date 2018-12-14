@@ -1,0 +1,5 @@
+.gradle/
+.idea/workspace.xml
+.idea/vcs.xml
+/build/
+/out/

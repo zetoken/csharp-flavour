@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0">
+      <entry_point TYPE="field" FQNAME="fr.ztn.java.dotnet.adapters.ByRef value" />
+      <entry_point TYPE="field" FQNAME="fr.ztn.java.csharpflavour.ByRef value" />
+    </entry_points>
+    <pattern value="fr.ztn.java.dotnet.adapters.AutoProperty" />
+    <pattern value="fr.ztn.java.dotnet.adapters.AutoProperty" method="get" />
+    <pattern value="fr.ztn.java.dotnet.adapters.AutoProperty" method="set" />
+    <pattern value="fr.ztn.java.dotnet.adapters.ByRef" />
+    <pattern value="fr.ztn.java.dotnet.adapters.ByRef" method="ByRef" />
+    <pattern value="fr.ztn.java.dotnet.adapters.system.EventHandler" method="add" />
+    <pattern value="fr.ztn.java.dotnet.adapters.system.EventArgs" />
+    <pattern value="fr.ztn.java.dotnet.adapters.system.EventHandler" />
+    <pattern value="fr.ztn.java.dotnet.adapters.ReadOnlyProperty" method="get" />
+    <pattern value="fr.ztn.java.dotnet.adapters.system.diagnostics.Stopwatch" method="getElapsedMilliseconds" />
+    <pattern value="fr.ztn.java.dotnet.adapters.system.EventArgs" method="getEmpty" />
+    <pattern value="fr.ztn.java.dotnet.adapters.PropertyChangedEventArgs" method="getNewValue" />
+    <pattern value="fr.ztn.java.dotnet.adapters.Property" />
+    <pattern value="fr.ztn.java.dotnet.adapters.Property" method="Property" />
+    <pattern value="fr.ztn.java.dotnet.adapters.PropertyChangedEventArgs" />
+    <pattern value="fr.ztn.java.dotnet.adapters.ReadOnlyProperty" />
+    <pattern value="fr.ztn.java.dotnet.adapters.ReadOnlyProperty" method="ReadOnlyProperty" />
+    <pattern value="fr.ztn.java.dotnet.adapters.system.EventHandler" method="remove" />
+    <pattern value="fr.ztn.java.dotnet.adapters.Property" method="set" />
+    <pattern value="fr.ztn.java.dotnet.adapters.system.diagnostics.Stopwatch" method="start" />
+    <pattern value="fr.ztn.java.dotnet.adapters.system.diagnostics.Stopwatch" method="stop" />
+    <pattern value="fr.ztn.java.dotnet.adapters.system.diagnostics.Stopwatch" />
+    <pattern value="fr.ztn.java.dotnet.adapters.system.diagnostics.Stopwatch" method="Stopwatch" />
+    <pattern value="fr.ztn.java.csharpflavour.system.EventHandler" method="add" />
+    <pattern value="fr.ztn.java.csharpflavour.AutoProperty" />
+    <pattern value="fr.ztn.java.csharpflavour.ByRef" />
+    <pattern value="fr.ztn.java.csharpflavour.ByRef" method="ByRef" />
+    <pattern value="fr.ztn.java.csharpflavour.system.EventArgs" />
+    <pattern value="fr.ztn.java.csharpflavour.system.EventHandler" />
+    <pattern value="fr.ztn.java.csharpflavour.AutoProperty" method="get" />
+    <pattern value="fr.ztn.java.csharpflavour.ReadOnlyProperty" method="get" />
+    <pattern value="fr.ztn.java.csharpflavour.system.diagnostics.Stopwatch" method="getElapsedMilliseconds" />
+    <pattern value="fr.ztn.java.csharpflavour.system.EventArgs" method="getEmpty" />
+    <pattern value="fr.ztn.java.csharpflavour.PropertyChangedEventArgs" method="getNewValue" />
+    <pattern value="fr.ztn.java.csharpflavour.Property" />
+    <pattern value="fr.ztn.java.csharpflavour.Property" method="Property" />
+    <pattern value="fr.ztn.java.csharpflavour.PropertyChangedEventArgs" />
+    <pattern value="fr.ztn.java.csharpflavour.PropertyChangedEventArgs" method="PropertyChangedEventArgs" />
+    <pattern value="fr.ztn.java.csharpflavour.ReadOnlyProperty" />
+    <pattern value="fr.ztn.java.csharpflavour.ReadOnlyProperty" method="ReadOnlyProperty" />
+    <pattern value="fr.ztn.java.csharpflavour.system.EventHandler" method="remove" />
+    <pattern value="fr.ztn.java.csharpflavour.AutoProperty" method="set" />
+    <pattern value="fr.ztn.java.csharpflavour.Property" method="set" />
+    <pattern value="fr.ztn.java.csharpflavour.system.diagnostics.Stopwatch" method="start" />
+    <pattern value="fr.ztn.java.csharpflavour.system.diagnostics.Stopwatch" method="stop" />
+    <pattern value="fr.ztn.java.csharpflavour.system.diagnostics.Stopwatch" />
+    <pattern value="fr.ztn.java.csharpflavour.system.diagnostics.Stopwatch" method="Stopwatch" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
